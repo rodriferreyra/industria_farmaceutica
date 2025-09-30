@@ -33,16 +33,16 @@
 
 ## 📊 Visualizaciones en Python  
 1. **Lotes aprobados vs rechazados**  
-   ![aprobados_vs_rechazados](img/aprobados.png)  
+   ![aprobados_vs_rechazados](output.png)  
 
 2. **Motivos de rechazo**  
-   ![motivos_rechazo](img/rechazos.png)  
+   ![motivos_rechazo](output1.png)  
 
 3. **Costo promedio por producto**  
-   ![costo_promedio](img/costos.png)  
+   ![costo_promedio](output2.png)  
 
 4. **Tendencia mensual de producción**  
-   ![tendencia_mensual](img/tendencia.png)  
+   ![tendencia_mensual](output3.png)  
 
 ---
 
